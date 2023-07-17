@@ -26,3 +26,23 @@ This is the landing page for an upcoming art exhibition in New Delhi. The landin
 ## Installation
 
 1. Clone the repository:
+2. Navigate to the project directory:
+3. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+- Explore the landing page to get a glimpse of the art exhibition.
+- Navigate through different sections using the menu to discover featured artworks, artist profiles, event schedule, and ticketing information.
+- Interact with the interactive elements such as sliders, carousels, and interactive artwork previews.
+- Click on the artist cards to learn more about each artist and be redirected to their Wikipedia page.
+- Connect with the exhibition's social media profiles for updates and share the event with your friends.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Please ensure to follow the project's code of conduct.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
